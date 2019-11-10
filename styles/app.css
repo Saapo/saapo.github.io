@@ -1,19 +1,12 @@
-p {
-    color: red;
+.container {
+    max-width: 1200px;
+    margin: auto;
 }
 
-div {
-    color: blue;
+.d-flex {
+    display: flex;
 }
 
-.masha {
-    color: green;
-}
-
-.masha:hover {
-    color: magenta;
-}
-
-.masha.dura {
-    color: cyan;
+.flex-between {
+    justify-content: space-between;
 }
