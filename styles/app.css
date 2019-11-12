@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 body{
     background-color: grey;
@@ -12,3 +13,17 @@ p {
 span{    
     background-color: black;
 }    
+=======
+.container {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.flex-between {
+    justify-content: space-between;
+}
+>>>>>>> 9ef50fe38fe80d7f288eb3512f8e276a8de86faa
