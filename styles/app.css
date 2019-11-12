@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 body{
     background-color: grey;
@@ -14,6 +15,8 @@ span{
     background-color: black;
 }    
 =======
+=======
+>>>>>>> 4a6340ffd8f7a1535f6b9639487ac91341d72ea8
 .container {
     max-width: 1200px;
     margin: auto;
@@ -25,5 +28,9 @@ span{
 
 .flex-between {
     justify-content: space-between;
+<<<<<<< HEAD
 }
 >>>>>>> 9ef50fe38fe80d7f288eb3512f8e276a8de86faa
+=======
+}
+>>>>>>> 4a6340ffd8f7a1535f6b9639487ac91341d72ea8
